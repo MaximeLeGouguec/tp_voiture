@@ -27,4 +27,4 @@ L'interface se divise en trois parties principales :
 
 1. Créez vos fichiers sources via l'explorateur à gauche ou directement dans le terminal :
    ```bash
-   touch CVoiture.h CVoiture.cpp main.cpp .gitignore
+   touch voiture.h voiture.cpp main.cpp .gitignore
