@@ -6,7 +6,7 @@ Ce tutoriel vous explique comment réaliser et tester le TP C++ directement dans
 
 ## 1. Lancer un Codespace depuis votre dépôt
 
-1. Rendez-vous sur la page de votre dépôt GitHub (ex : `tp-cvoiture-ciel`).
+1. Rendez-vous sur la page de votre dépôt GitHub (tp_voiture).
 2. Cliquez sur le bouton vert **`<> Code`**.
 3. Sélectionnez l'onglet **Codespaces**.
 4. Cliquez sur **Create codespace on main**.
